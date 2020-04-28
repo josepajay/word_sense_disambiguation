@@ -229,16 +229,10 @@ RMSE: 0.2672612419124244
 
 using word embeddings epoch 100
 
-
-
-
-
-Deck Performance with pretrained vectors 25
-
-c1917253@comsc-102520:~/Documents/applied_machine_learning/coursework2$ pipenv run python confusion_matrix.py deck
-[[92  0]
- [ 6  1]]
-Accuracy: 0.9393939393939394
-Precision: 0.9693877551020409
-Recall: 0.5714285714285714
-fscore: 0.6092105263157894
+[[32  1]
+ [ 2  7]]
+Accuracy: 0.9285714285714286
+Precision: 0.9080882352941176
+Recall: 0.8737373737373737
+fscore: 0.8893766461808605
+RMSE: 0.2672612419124244
