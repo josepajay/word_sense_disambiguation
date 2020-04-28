@@ -5,3 +5,15 @@ if epoch is not given
 club lowest performance
 
 deck no performance at all
+
+
+
+Deck Performance with pretrained vectors 25
+
+c1917253@comsc-102520:~/Documents/applied_machine_learning/coursework2$ pipenv run python confusion_matrix.py deck
+[[92  0]
+ [ 6  1]]
+Accuracy: 0.9393939393939394
+Precision: 0.9693877551020409
+Recall: 0.5714285714285714
+fscore: 0.6092105263157894
